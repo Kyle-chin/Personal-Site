@@ -9,7 +9,7 @@ const Hero = () => {
             <p>Expertise in all facets of Software Engineering</p>
             <p>Bachelor's in Information Systems and Technology</p>
             <p>Possessing skills in Agile Methodologies</p>
-            <button href='/' className='button'>Contact Me</button>
+            <a href='#contact'><button className='button'>Contact Me</button></a>
         </div>
     </div>
   )
