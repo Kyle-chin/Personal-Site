@@ -21,7 +21,7 @@ const Footer = () => {
             </ul>
             <div className='bottom'>
                 <span className='line'></span>
-                <p>2020 WizWit, Inc. All rights reserved</p>
+                <p>2020 WizWit, Inc. Made With ReactJS and MUI </p>
             </div>
         </div>
     </div>
